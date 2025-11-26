@@ -17,7 +17,7 @@ Application web éducative avec une mascotte interactive pour apprendre le tri d
 - 🎨 Design moderne et responsive
 
 ## 🚀 Utilisation
-[Lien](https://salah-ahlemnourimene.github.io/eco-aventurier/)
+1.[Lien](https://salah-ahlemnourimene.github.io/eco-aventurier/)
 2. Cliquez sur "JOUER AVEC LÉO"
 3. Regardez Léo lancer les déchets
 4. Triez-les dans la bonne poubelle :
