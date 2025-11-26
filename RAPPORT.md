@@ -22,12 +22,14 @@ L'application suit une structure simple à 3 écrans :
 ## 3. Structure Technique
 
 ### 3.1 Fichier HTML (index.html)
+
 <!-- Structure de base -->
 <div class="app-container">
     <header> <!-- Score et vies -->
     <main>   <!-- Jeu principal -->
     <nav>    <!-- Navigation -->
 </div>
+
 
 Explications :
 - J'ai utilisé une div container pour englober toute l'application
@@ -36,6 +38,7 @@ Explications :
 - Le nav permet de naviguer entre les écrans
 
 ### 3.2 Styles CSS (style.css)
+
 /* Variables pour les couleurs */
 :root {
     --plastic: #FFC107;  /* Jaune poubelle plastique */
@@ -50,12 +53,14 @@ Explications :
     margin: 0 auto;    /* Centrage */
 }
 
+
 Mes choix :
 - J'ai utilisé CSS Grid pour les boutons de poubelles
 - Les animations CSS donnent du feedback visuel
 - Le design s'adapte aux petits écrans
 
 ### 3.3 Logique JavaScript (script.js)
+
 class EcoGame {
     constructor() {
         this.score = 0;
@@ -72,6 +77,7 @@ class EcoGame {
         }
     }
 }
+
 
 Fonctionnalités implémentées :
 - Gestion du score et des vies
