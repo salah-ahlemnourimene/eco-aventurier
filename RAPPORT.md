@@ -118,5 +118,5 @@ Le projet m'a permis de mettre en pratique les concepts d'IHM tout en créant un
 ---
 
 Réalisé par : Salah Ahlem Nour Imene  et  Belamri Meriem Elbatoul
-**L3 Informatique - Université Oran1
+**Section2 G3 L3 Informatique - Université Oran1
 Module IHM - Année 2025-2026
